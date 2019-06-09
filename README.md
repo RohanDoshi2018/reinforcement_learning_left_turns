@@ -1,6 +1,6 @@
 # Reinforcement Learning Left Turns
 
-<iframe src="https://giphy.com/embed/jqMkjsV7ZAd1YdRCaf" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/jqMkjsV7ZAd1YdRCaf"></a></p>
+![](https://giphy.com/gifs/jqMkjsV7ZAd1YdRCaf)
 
 ## Challenge
 
