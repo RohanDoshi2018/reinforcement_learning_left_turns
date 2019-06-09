@@ -1,0 +1,7 @@
+numpy
+gym
+keras
+matplotlib
+tensorflow
+statistics
+pyqt5
