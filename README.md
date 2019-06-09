@@ -1,6 +1,6 @@
-# Reinforcement Learning Left Turns
+# Reinforcement Learning for Left Turns
 
-![](https://giphy.com/gifs/jqMkjsV7ZAd1YdRCaf)
+![](leftturn.gif)
 
 ## Challenge
 
